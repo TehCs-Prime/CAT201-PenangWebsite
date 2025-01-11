@@ -228,3 +228,10 @@
     gap: 80px 40px;
   }
 }
+
+@media screen and (max-width: 360px){
+  .details-desc {
+    margin: 0 0;
+    font-size: 25px;
+  }
+}

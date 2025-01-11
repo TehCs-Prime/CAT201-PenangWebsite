@@ -91,7 +91,7 @@ const tourismspots = [
         title: "Strait Quay",
         location: "Jln Seri Tanjung Png, George Town",
         imageSrc: "../DynamicSources/StraitQuay.jpg",
-        details: "Straits Quay is Penang's first seafront marina where it featuring over 100 shops with stunning ocean views. Key attractions include the Royal Selangor Visitor Centre and penangpac, Penang's performing arts centre.",
+        details: "Straits Quay is Penang's first seafront marina where it with stunning ocean views. Key attractions include the Royal Selangor Visitor Centre and penangpac, Penang's performing arts centre.",
         rating: 5
     },
     {
@@ -133,14 +133,14 @@ const tourismspots = [
         title: "Hin Bus Depot",
         location: "Jln Gurdwara, George Town",
         imageSrc: "../DynamicSources/HinBusDepot.jpg",
-        details: "Hin Bus Depot is a dynamic creative hub where it offers a gallery, arts and event spaces. It serves as a platform for artistic expression while promoting sustainability and community engagement.",
+        details: "Hin Bus Depot is a dynamic creative hub where it offers a gallery, arts and event spaces. It serves as a platform for artistic expression while promoting community engagement.",
         rating: 4
     },
     {
         title: "Penang Snake Temple",
         location: "Bandar Bayan Baru, George Town",
         imageSrc: "../DynamicSources/PenangSnakeTemple.jpg",
-        details: "Penang Snake Temple is a unique sanctuary for snakes, they believed to be protected by the spirit of the healer Chor Soo Kong. The temple offers visitors a chance to see snakes resting comfortably in their natural home.",
+        details: "Penang Snake Temple is a unique sanctuary for snakes, they believed to be protected by the spirit of the healer Chor Soo Kong. To see snakes resting comfortably in their natural home.",
         rating: 4
     },
 ];
