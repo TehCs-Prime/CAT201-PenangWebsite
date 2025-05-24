@@ -53,7 +53,6 @@ This project is a modern, responsive web application built with **React.js** and
 
 ## 🖼️ Screenshots
 ### 🏁 Starting Page
-### 🏁 Starting Page
 ![Starting Page](./assignment-2/public/images/StartingPage.jpg)
 
 ### 🎯 Hero Page
