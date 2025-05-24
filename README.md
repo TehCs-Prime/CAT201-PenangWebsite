@@ -53,30 +53,32 @@ This project is a modern, responsive web application built with **React.js** and
 
 ## 🖼️ Screenshots
 ### 🏁 Starting Page
-![Starting Page](assignment-2\public\images\StartingPage.jpg)
+### 🏁 Starting Page
+![Starting Page](./assignment-2/public/images/StartingPage.jpg)
 
 ### 🎯 Hero Page
-![Hero Page](assignment-2/public/images/HeroPage.jpg)
+![Hero Page](./assignment-2/public/images/HeroPage.jpg)
 
 ### 📍 Tourism Spot Section
-![Tourism Spot Section](assignment-2/public/images/TourismSpotSection1.jpg)
-![Tourism Spot Section](assignment-2/public/images/TourismSpotSection2.jpg)
+![Tourism Spot Section](./assignment-2/public/images/TourismSpotSection1.jpg)
+![Tourism Spot Section](./assignment-2/public/images/TourismSpotSection2.jpg)
 
 ### 🍜 Food & Beverage Section
-![Food & Beverage Section](assignment-2/public/images/F&Bsection1.jpg)
-![Food & Beverage Section](assignment-2/public/images/F&Bsection2.jpg)
+![Food & Beverage Section](./assignment-2/public/images/F&Bsection1.jpg)
+![Food & Beverage Section](./assignment-2/public/images/F&Bsection2.jpg)
 
 ### 🏨 Hotels Section
-![Hotels Section](assignment-2\public\images\HotelsSection1.jpg)
-![Hotels Section](assignment-2\public\images\HotelsSection2.jpg)
+![Hotels Section](./assignment-2/public/images/HotelsSection1.jpg)
+![Hotels Section](./assignment-2/public/images/HotelsSection2.jpg)
 
 ### 🎉 Things to Do Section
-![Things to Do Section](assignment-2\public\images\TtoDsection1.jpg)
-![Things to Do Section](assignment-2\public\images\TtoDsection2.jpg)
+![Things to Do Section](./assignment-2/public/images/TtoDsection1.jpg)
+![Things to Do Section](./assignment-2/public/images/TtoDsection2.jpg)
 
 ### 📺 Video Section
-![Video Section](assignment-2\public\images\VideoSection.jpg)
+![Video Section](./assignment-2/public/images/VideoSection.jpg)
 
 ### 📬 Footer Section
-![Footer Section](assignment-2\public\images\Footer.jpg)
+![Footer Section](./assignment-2/public/images/Footer.jpg)
+
 
